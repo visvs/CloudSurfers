@@ -12,8 +12,8 @@ Guía de estudio de Azure Fundamentals AZ900, innovAccion Virtual
 
 #Contenido
 
-##Módulo 1: Descripción de los conceptos básicos de Azure
-
+## Módulo 1: Descripción de los conceptos básicos de Azure
+ 
 Aqui encontraras los conceptos básicos que te ayudaran a entender el funcionamiento de diferentes servicios de Azure, es de donde parte tu competencia hacia la meta. Siendo este módulo uno de los de mayor peso en la certificación
 
 - [Introducción a los aspectos básicos de Azure
@@ -23,11 +23,17 @@ Aqui encontraras los conceptos básicos que te ayudaran a entender el funcionami
 - [Descripción de los componentes principales de la arquitectura de Azure
 ](https://docs.microsoft.com/es-mx/learn/modules/azure-architecture-fundamentals/)
 
-###Práctica!
+### Práctica!
 Aquí podrás visitar los ejercicios prácticos corresnpondientes al módulo 1
 
-###Repaso express
+### Repaso express
 En está sección encontraras el contenido del módulo dividido y sintetizado en mapas
--[Aspectos básicos de Azure](https://docs.microsoft.com/es-es/learn/modules/intro-to-azure-fundamentals/)
--[Ventajas la nube pública](https://docs.microsoft.com/es-es/learn/modules/intro-to-azure-fundamentals/)
+- [Aspectos básicos de Azure](https://docs.microsoft.com/es-es/learn/modules/intro-to-azure-fundamentals/)
+- [Ventajas la nube pública](https://docs.microsoft.com/es-es/learn/modules/intro-to-azure-fundamentals/)
 
+### Dependencias
+Los programas necesarios para utilizar este tema son:
+
+- **`Polybar`** : Barra superior
+- **`Rofi`** : App Launcher y Powermenu
+- **`Alacritty`** : Terminal.
