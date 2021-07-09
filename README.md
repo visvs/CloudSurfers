@@ -27,7 +27,7 @@ Aqui encontraras los conceptos básicos que te ayudaran a entender el funcionami
 Aquí podrás visitar los ejercicios prácticos corresnpondientes al módulo 1.
 - [Ejercicio 1: Creación de un sitio web hospedado en Azure](https://docs.microsoft.com/es-es/learn/modules/azure-architecture-fundamentals/exercise-create-website)
 
-### Repaso express módulo 1
+<h4 style="color: #d6cbd3">Repaso express módulo 1</h4>
 En está sección encontraras el contenido del módulo dividido y sintetizado en mapas.
 - [Aspectos básicos de Azure](https://docs.microsoft.com/es-es/learn/modules/intro-to-azure-fundamentals/)
 - [Ventajas la nube pública](https://docs.microsoft.com/es-es/learn/modules/intro-to-azure-fundamentals/)
@@ -50,7 +50,10 @@ Aquí podrás visitar los ejercicios prácticos corresnpondientes al módulo 2.
 
 ### Repaso Express módulo 2
 En está sección encontraras el contenido del módulo dividido y sintetizado en mapas.
-- 
+- [Azure Compute](https://coggle.it/diagram/YLu3_bd55WTK4Mif/t/azure-compute/0c171a2b65f0fadb4abf09e3b885fd168ace18bda37671fb68c20e42107e7e20)
+- [Azure DataBase](media/Mapas/M2-Azure_DataBase.pdf)
+- [Azure Storage](media/Mapas/M2-Azure_Storage.pdf)
+- [Azure Network](media/Mapas/M2-Red_de_Azure.pdf)
 
 ## Módulo 3: Descripción de las principales soluciones y herramientas de administración de Azure
 Entramos a los servicios más complejos y exploramos diferentes escenarios que nos ayudaran a decidir que servicio elegir dependiendo de las características descritas en cada caso.
