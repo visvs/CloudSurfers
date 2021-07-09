@@ -27,7 +27,7 @@ Aqui encontraras los conceptos básicos que te ayudaran a entender el funcionami
 Aquí podrás visitar los ejercicios prácticos corresnpondientes al módulo 1.
 - [Ejercicio 1: Creación de un sitio web hospedado en Azure](https://docs.microsoft.com/es-es/learn/modules/azure-architecture-fundamentals/exercise-create-website)
 
-<h4 style="color: #blue;">Repaso express módulo 1</h4>
+### Repaso Express módulo 1
 En está sección encontraras el contenido del módulo dividido y sintetizado en mapas.
 - [Aspectos básicos de Azure](https://docs.microsoft.com/es-es/learn/modules/intro-to-azure-fundamentals/)
 - [Ventajas la nube pública](https://docs.microsoft.com/es-es/learn/modules/intro-to-azure-fundamentals/)
@@ -73,7 +73,13 @@ Entramos a los servicios más complejos y exploramos diferentes escenarios que n
 ](https://docs.microsoft.com/es-mx/learn/modules/monitoring-fundamentals/)
  
 ### Repaso Express módulo 3
-- 
+- [Azure IoT](media/Mapas/M3-Azure_IoT.pdf)
+- [Herramientas de administración](media/Mapas/M3-Herramientas_de_administracin_de_Azure.pdf)
+- [Azure IA](media/Mapas/M3-Azure_IA.pdf)
+- [Servicios de supervición](media/Mapas/M3-servicio_de_supervisin_para_visibilidad_informacin_y_mitigacin_de_interrupciones.pdf)
+- [Serverless](media/Mapas/M3-Serverless.pdf)
+- [Herramientas DevOps](media/Mapas/M3-Herramientas_de_DevOps_Azure.pdf)
+
 ## Módulo 4: Descripción de las caracteristicas de seguridad general y seguridad de red
 Aprende de seguridad en la nube y ve que te aporta Azure en está área.
 
