@@ -27,7 +27,7 @@ Aqui encontraras los conceptos básicos que te ayudaran a entender el funcionami
 Aquí podrás visitar los ejercicios prácticos corresnpondientes al módulo 1.
 - [Ejercicio 1: Creación de un sitio web hospedado en Azure](https://docs.microsoft.com/es-es/learn/modules/azure-architecture-fundamentals/exercise-create-website)
 
-<h4 style="color: #d6cbd3">Repaso express módulo 1</h4>
+<h4 style="color: #blue;">Repaso express módulo 1</h4>
 En está sección encontraras el contenido del módulo dividido y sintetizado en mapas.
 - [Aspectos básicos de Azure](https://docs.microsoft.com/es-es/learn/modules/intro-to-azure-fundamentals/)
 - [Ventajas la nube pública](https://docs.microsoft.com/es-es/learn/modules/intro-to-azure-fundamentals/)
