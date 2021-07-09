@@ -14,7 +14,7 @@ Guía de estudio de Azure Fundamentals AZ900, innovAccion Virtual
 
 ## Módulo 1: Descripción de los conceptos básicos de Azure
  
-Aqui encontraras los conceptos básicos que te ayudaran a entender el funcionamiento de diferentes servicios de Azure, es de donde parte tu competencia hacia la meta. Siendo este módulo uno de los de mayor peso en la certificación
+Aqui encontraras los conceptos básicos que te ayudaran a entender el funcionamiento de diferentes servicios de Azure, es de donde parte tu competencia hacia la meta. Siendo este módulo uno de los de mayor peso en la certificación.
 ##
 - [Introducción a los aspectos básicos de Azure
 ](https://docs.microsoft.com/es-es/learn/modules/intro-to-azure-fundamentals/)
@@ -24,15 +24,16 @@ Aqui encontraras los conceptos básicos que te ayudaran a entender el funcionami
 ](https://docs.microsoft.com/es-mx/learn/modules/azure-architecture-fundamentals/)
 
 ### Práctica!
-Aquí podrás visitar los ejercicios prácticos corresnpondientes al módulo 1
+Aquí podrás visitar los ejercicios prácticos corresnpondientes al módulo 1.
+- [Ejercicio 1: Creación de un sitio web hospedado en Azure](https://docs.microsoft.com/es-es/learn/modules/azure-architecture-fundamentals/exercise-create-website)
 
 ### Repaso express módulo 1
-En está sección encontraras el contenido del módulo dividido y sintetizado en mapas
+En está sección encontraras el contenido del módulo dividido y sintetizado en mapas.
 - [Aspectos básicos de Azure](https://docs.microsoft.com/es-es/learn/modules/intro-to-azure-fundamentals/)
 - [Ventajas la nube pública](https://docs.microsoft.com/es-es/learn/modules/intro-to-azure-fundamentals/)
 
 ## Módulo 2: Descripción de los servicios básicos de Azure
-Aprende sobre los servicios básicos que aporta Azure al mundo, como Azure compute, Azure Storage, Azure Database y Network, de aquí parten los demás recursos que se verán en los siguientes módulos
+Aprende sobre los servicios básicos que aporta Azure al mundo, como Azure compute, Azure Storage, Azure Database y Network, de aquí parten los demás recursos que se verán en los siguientes módulos.
 ##
 - [Exploración de los servicios de Azure Compute
 ](https://docs.microsoft.com/es-mx/learn/modules/azure-compute-fundamentals/)
@@ -44,12 +45,15 @@ Aprende sobre los servicios básicos que aporta Azure al mundo, como Azure compu
 ](https://docs.microsoft.com/es-mx/learn/modules/azure-database-fundamentals/)
 
 ### Práctica!
-- 
+Aquí podrás visitar los ejercicios prácticos corresnpondientes al módulo 2.
+- [Ejercicio 1: Creación de una base de datos SQL](https://docs.microsoft.com/es-es/learn/modules/azure-database-fundamentals/exercise-create-sql-database)
+
 ### Repaso Express módulo 2
+En está sección encontraras el contenido del módulo dividido y sintetizado en mapas.
 - 
 
 ## Módulo 3: Descripción de las principales soluciones y herramientas de administración de Azure
-Entramos a los servicios más complejos y exploramos diferentes escenarios que nos ayudaran a decidir que servicio elegir dependiendo de las características descritas en cada caso
+Entramos a los servicios más complejos y exploramos diferentes escenarios que nos ayudaran a decidir que servicio elegir dependiendo de las características descritas en cada caso.
 
 ##
 - [Elegir el mejor servicio de Azure IoT para su aplicación
@@ -64,13 +68,11 @@ Entramos a los servicios más complejos y exploramos diferentes escenarios que n
 ](https://docs.microsoft.com/es-mx/learn/modules/management-fundamentals/)
 - [Elección del mejor servicio de supervisión para visibilidad, información y mitigación de interrupciones
 ](https://docs.microsoft.com/es-mx/learn/modules/monitoring-fundamentals/)
-
-### Práctica!
-- 
+ 
 ### Repaso Express módulo 3
 - 
 ## Módulo 4: Descripción de las caracteristicas de seguridad general y seguridad de red
-Aprende de seguridad en la nube y ve que te aporta Azure en está área
+Aprende de seguridad en la nube y ve que te aporta Azure en está área.
 
 ##
 - [Protección frente a amenazas de seguridad en Azure
@@ -79,7 +81,9 @@ Aprende de seguridad en la nube y ve que te aporta Azure en está área
 ](https://docs.microsoft.com/es-mx/learn/modules/secure-network-connectivity-azure/)
 
 ### Práctica!
-- 
+Aquí podrás visitar los ejercicios prácticos corresnpondientes al módulo 4
+- [Ejercicio 1: Administración de una contraseña en Azure Key Vault](https://docs.microsoft.com/es-es/learn/modules/protect-against-security-threats-azure/5-manage-password-key-vault)
+- [Ejercicio 2: configuración del acceso de red a una máquina virtual mediante un grupo de seguridad de red](https://docs.microsoft.com/es-es/learn/modules/secure-network-connectivity-azure/6-configure-access-network-security-group)
 ### Repaso Express módulo 4
 
 ## Módulo 5: Descripción de las características de identidad, gobernanza, privacidad y cumplimiento
@@ -94,23 +98,32 @@ Obten información sobre cómo Azure puede ayudarle a proteger el acceso a los r
 ](https://docs.microsoft.com/es-mx/learn/modules/build-cloud-governance-strategy-azure/)
 - [Examine los estándares de privacidad, cumplimiento y protección de datos en Azure
 ](https://docs.microsoft.com/es-mx/learn/modules/examine-privacy-compliance-data-protection-standards/)
+
 ### Práctica!
--
+Aquí podrás visitar los ejercicios prácticos corresnpondientes al módulo 5
+- [Ejercicio 1: Uso de un bloqueo de recursos para impedir que una cuenta de almacenamiento se elimine por error](https://docs.microsoft.com/es-es/learn/modules/build-cloud-governance-strategy-azure/6-protect-storage-account-resource-lock)
+
 ### Repaso express módulo 5
--
+- 
 
 ## Módulo 6: Descripción de los acuerdos de nivel de servicio y la administración de costos de Azure
 Conoce sobre los factores que influyen en el costo, las herramientas que se pueden usar para poder estimar y administrar el gasto en la nube, y sobre cómo los acuerdos de nivel de servicio de Azure (SLA) pueden influir en las decisiones de diseño de una aplicación.
-### Módulos de Microsoft Learn (Challenge)
+
+##
 - [Planeación y administración de los costos de Azure
 ](https://docs.microsoft.com/es-mx/learn/modules/plan-manage-azure-costs/)
 - [Elección de los servicios de Azure adecuados según los acuerdos de nivel de servicio y el ciclo de vida del servicio
 ](https://docs.microsoft.com/es-mx/learn/modules/choose-azure-services-sla-lifecycle/)
+
 ### Práctica!
--
+Aquí podrás visitar los ejercicios prácticos corresnpondientes al módulo 6
+- [Ejercicio 1: comparación de los costos de carga de trabajo de ejemplo mediante la calculadora de TCO](https://docs.microsoft.com/es-es/learn/modules/plan-manage-azure-costs/3-compare-workload-costs-tco-calculator)
+- [Ejercicio 2: Cálculo del costo de la carga de trabajo con la calculadora de precios](https://docs.microsoft.com/es-es/learn/modules/plan-manage-azure-costs/5-estimate-workload-cost-pricing-calculator)
+
 ### Repaso express módulo 5
 
 
-#### La cosa no es como se usa la herramienta, sino cómo ella nos usa. 
--Nick Joaquin
+
+#### La cosa no es como se usa la herramienta, sino cómo ella nos usa. -Nick Joaquin
+
 ![intro](media/innovAccion.jpg)
