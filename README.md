@@ -44,9 +44,9 @@ Aquí podrás visitar los ejercicios prácticos corresnpondientes al módulo 2.
 ### Repaso express módulo 2
 En está sección encontraras el contenido del módulo dividido y sintetizado en mapas.
 - [Azure Compute](https://coggle.it/diagram/YLu3_bd55WTK4Mif/t/azure-compute/0c171a2b65f0fadb4abf09e3b885fd168ace18bda37671fb68c20e42107e7e20)
-- [Azure DataBase](media/Mapas/M2-Azure_DataBase.pdf)
-- [Azure Storage](media/Mapas/M2-Azure_Storage.pdf)
-- [Azure Network](media/Mapas/M2-Red_de_Azure.pdf)
+- [Azure DataBase](mapas/M2-Azure_DataBase.pdf)
+- [Azure Storage](mapas/M2-Azure_Storage.pdf)
+- [Azure Network](mapas/M2-Red_de_Azure.pdf)
 
 ## Módulo 3: Descripción de las principales soluciones y herramientas de administración de Azure
 Entramos a los servicios más complejos y exploramos diferentes escenarios que nos ayudaran a decidir que servicio elegir dependiendo de las características descritas en cada caso.
@@ -60,12 +60,12 @@ Entramos a los servicios más complejos y exploramos diferentes escenarios que n
 - [Elección del mejor servicio de supervisión para visibilidad, información y mitigación de interrupciones](https://docs.microsoft.com/es-mx/learn/modules/monitoring-fundamentals/)
  
 ### Repaso express módulo 3
-- [Azure IoT](media/Mapas/M3-Azure_IoT.pdf)
-- [Herramientas de administración](media/Mapas/M3-Herramientas_de_administracin_de_Azure.pdf)
-- [Azure IA](media/Mapas/M3-Azure_IA.pdf)
-- [Servicios de supervición](media/Mapas/M3-servicio_de_supervisin_para_visibilidad_informacin_y_mitigacin_de_interrupciones.pdf)
-- [Serverless](media/Mapas/M3-Serverless.pdf)
-- [Herramientas DevOps](media/Mapas/M3-Herramientas_de_DevOps_Azure.pdf)
+- [Azure IoT](mapas/M3-Azure_IoT.pdf)
+- [Herramientas de administración](mapas/M3-Herramientas_de_administracin_de_Azure.pdf)
+- [Azure IA](mapas/M3-Azure_IA.pdf)
+- [Servicios de supervición](mapas/M3-servicio_de_supervisin_para_visibilidad_informacin_y_mitigacin_de_interrupciones.pdf)
+- [Serverless](mapas/M3-Serverless.pdf)
+- [Herramientas DevOps](mapas/M3-Herramientas_de_DevOps_Azure.pdf)
 
 ## Módulo 4: Descripción de las caracteristicas de seguridad general y seguridad de red
 Aprende de seguridad en la nube y ve que te aporta Azure en está área.
