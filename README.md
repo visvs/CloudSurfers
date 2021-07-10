@@ -1,4 +1,4 @@
-<h1>CloudSurfers</h1>
+<h1 class="text-center">CloudSurfers</h1>
 
 # Guía de estudio 
 Guía de estudio de Azure Fundamentals AZ900, innovAccion Virtual
@@ -79,6 +79,8 @@ Aquí podrás visitar los ejercicios prácticos corresnpondientes al módulo 4
 - [Ejercicio 1: Administración de una contraseña en Azure Key Vault](https://docs.microsoft.com/es-es/learn/modules/protect-against-security-threats-azure/5-manage-password-key-vault)
 - [Ejercicio 2: configuración del acceso de red a una máquina virtual mediante un grupo de seguridad de red](https://docs.microsoft.com/es-es/learn/modules/secure-network-connectivity-azure/6-configure-access-network-security-group)
 ### Repaso express módulo 4
+- [Seguridad](mapas/M4-Seguridad_general_y_de_seguridad_de_red.pdf)
+- [Conectividad segura](mapas/M4-Conectividad_de_red_segura_en_Azure.pdf)
 
 ## Módulo 5: Descripción de las características de identidad, gobernanza, privacidad y cumplimiento
 
@@ -95,7 +97,9 @@ Aquí podrás visitar los ejercicios prácticos corresnpondientes al módulo 5
 - [Ejercicio 1: Uso de un bloqueo de recursos para impedir que una cuenta de almacenamiento se elimine por error](https://docs.microsoft.com/es-es/learn/modules/build-cloud-governance-strategy-azure/6-protect-storage-account-resource-lock)
 
 ### Repaso express módulo 5
-- 
+- [Acceso Seguro a aplicaciones con servicios de identidad de Azure](mapas/M5-Acceso_seguro_a_las_aplicaciones_con_servicios_de_identidad_de_Azure.pdf)
+- [Gobernanza](mapas/M5-Gobernanza_en_la_nube_en_Azure.pdf)
+- [Estandares de privacidad](mapas/M5-Estandares_de_privacidad_cumplimiento_y_proteccion_de_datos_de_Azure.pdf)
 
 ## Módulo 6: Descripción de los acuerdos de nivel de servicio y la administración de costos de Azure
 Conoce sobre los factores que influyen en el costo, las herramientas que se pueden usar para poder estimar y administrar el gasto en la nube, y sobre cómo los acuerdos de nivel de servicio de Azure (SLA) pueden influir en las decisiones de diseño de una aplicación.
@@ -109,8 +113,9 @@ Aquí podrás visitar los ejercicios prácticos corresnpondientes al módulo 6
 - [Ejercicio 1: comparación de los costos de carga de trabajo de ejemplo mediante la calculadora de TCO](https://docs.microsoft.com/es-es/learn/modules/plan-manage-azure-costs/3-compare-workload-costs-tco-calculator)
 - [Ejercicio 2: Cálculo del costo de la carga de trabajo con la calculadora de precios](https://docs.microsoft.com/es-es/learn/modules/plan-manage-azure-costs/5-estimate-workload-cost-pricing-calculator)
 
-### Repaso express módulo 5
-
+### Repaso express módulo 6
+- [Planeación y administración de los costos de Azure](mapas/M6-Planeacion_y_administracin_de_los_costos_de_Azure.pdf)
+- [Los famosos SLA y un poco más](mapas/M6-Acuerdos_de_nivel_de_servicio_y_ciclo_de_vida.pdf)
 
 
 #### La cosa no es como se usa la herramienta, sino cómo ella nos usa. -Nick Joaquin
